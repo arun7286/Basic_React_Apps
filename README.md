@@ -24,6 +24,6 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/arun149)
+- [LinkedIn](https://www.linkedin.com/in/arun7286)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
