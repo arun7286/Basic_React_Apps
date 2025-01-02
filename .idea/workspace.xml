@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1931985d-ce14-41b3-b041-0795f422c3b7" name="Changes" comment="s">
-      <change afterPath="$PROJECT_DIR$/learnrouting/src/About.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnrouting/src/Contact.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnrouting/src/Home.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnrouting/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/learnrouting/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnrouting/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/learnrouting/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnrouting/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnrouting/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/learnrouting/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnrouting/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnrouting/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnrouting/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/learnrouting/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnrouting/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnrouting/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnrouting/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JSX File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -59,24 +47,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/AURAN/ReactJSproject&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.index.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/AURAN/ReactJSproject/activities",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AURAN\ReactJSproject\activities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AURAN\ReactJSproject\activities\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -97,7 +93,10 @@
       <workItem from="1735193429986" duration="6929000" />
       <workItem from="1735221430001" duration="5543000" />
       <workItem from="1735295195037" duration="80000" />
-      <workItem from="1735538440150" duration="4346000" />
+      <workItem from="1735538440150" duration="5358000" />
+      <workItem from="1735622318140" duration="643000" />
+      <workItem from="1735624890494" duration="6281000" />
+      <workItem from="1735644613641" duration="154000" />
     </task>
     <task id="LOCAL-00001" summary="States in React">
       <option name="closed" value="true" />
@@ -120,6 +119,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="States in React" />
