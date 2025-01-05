@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1931985d-ce14-41b3-b041-0795f422c3b7" name="Changes" comment="s">
-      <change afterPath="$PROJECT_DIR$/learnredux/src/Store.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learnredux/src/components/Payment.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizapp/src/QuizApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizapp/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quizapp/src/quizstyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learnredux/src/Store.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/learnredux/src/Store.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="TypeScript JSX File" />
         <option value="JSX File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -105,7 +107,7 @@
       <workItem from="1735644613641" duration="154000" />
       <workItem from="1735799583973" duration="2179000" />
       <workItem from="1735906413664" duration="3937000" />
-      <workItem from="1735970964774" duration="2213000" />
+      <workItem from="1735970964774" duration="13878000" />
     </task>
     <task id="LOCAL-00001" summary="States in React">
       <option name="closed" value="true" />

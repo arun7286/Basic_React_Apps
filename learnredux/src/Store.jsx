@@ -19,7 +19,7 @@ function reducer (state = initialState, action) {
             return {
                 user : {
                     username : state.user.username,
-                    balance : state.user.amount - action.payload
+                    balance : (state.user.amount - action.payload)
                 }
             };
         default:
